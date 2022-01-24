@@ -15,8 +15,8 @@ https://youtu.be/wEiHG5rgDhs
 <img src="images/uploadOpt.png" alt="drawing" height="600" width="300"/> <img src="images/uploadImg.png" alt="drawing" height="600" width="300"/> 
 <img src="images/gallery.png" alt="drawing" height="600" width="300"/> 
 <img src="images/homeH.png" alt="drawing" height="600" width="300"/> <img src="images/homeE.png" alt="drawing" height="600" width="300"/>
-<img src="images/chnagedate.png" alt="drawing" height="600" width="300"/> <img src="images/calendar.png" alt="drawing" height="600" width="300"/>
-<img src="images/detail.png" alt="drawing" height="600" width="300"/> <img src="images/map.png" alt="drawing" height="600" width="300"/>
+<img src="images/changedate.png" alt="drawing" height="600" width="300"/> <img src="images/calendar.png" alt="drawing" height="600" width="300"/>
+<img src="images/detailH.png" alt="drawing" height="600" width="300"/> <img src="images/map.png" alt="drawing" height="600" width="300"/>
 <img src="images/dialog.png" alt="drawing" height="600" width="300"/>
 <img src="images/emailNotif.png" alt="drawing" height="600" width="300"/> <img src="images/msgNotif.png" alt="drawing" height="600" width="300"/>
 
